@@ -9,4 +9,4 @@ SJImage3: https://www.amnesty.org/en/what-we-do/
 SJImage4:
 SJImage5: 
 SJImage6: 
-Zombies in Revolt: The Violent Revolution of American Cinematic Monsters; DOI: 10.15291/sic/2.4.lc.2 
+
